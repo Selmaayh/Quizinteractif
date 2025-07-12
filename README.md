@@ -21,4 +21,9 @@ Ce projet est un petit **quiz interactif** en HTML, CSS et JavaScript. Il permet
 - **JavaScript** – logique du jeu et gestion des réponses
 
 ## 📁 Structure des fichiers
-
+Quizinteractif/
+│
+├── index.html # Structure du quiz
+├── style.css # Styles CSS
+├── script.js # Logique JavaScript (questions, score, interactions)
+└── README.md # Ce fichier
